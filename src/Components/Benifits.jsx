@@ -106,54 +106,48 @@ const Benifits = () => {
         <div className="px-4">
           <h3 className="text-2xl font-bold text-center mb-12 text-slate-600">Student Life & Cultural Benefits</h3>
           <div className="grid md:grid-cols-3 gap-8 lg:gap-12">
-            <div className="space-y-8">
               <div className="flex items-start space-x-4">
                 <Building className="w-8 h-8 text-green-500 flex-shrink-0" />
                 <div>
-                  <h4 className="font-semibold mb-2">Modern Campus Facilities</h4>
-                  <p className="text-gray-600">State-of-the-art laboratories, libraries, and recreational facilities</p>
+                  <h4 className="font-semibold mb-2 text-md md:text-xl">Modern Campus Facilities</h4>
+                  <p className="text-gray-600 text-sm md:text-lg">State-of-the-art laboratories, libraries, and recreational facilities</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
                 <Users className="w-8 h-8 text-green-500 flex-shrink-0" />
                 <div>
-                  <h4 className="font-semibold mb-2">Diverse Student Community</h4>
-                  <p className="text-gray-600">Interact with students from various cultural backgrounds</p>
+                  <h4 className="font-semibold mb-2 text-md md:text-xl">Diverse Student Community</h4>
+                  <p className="text-gray-600 text-sm md:text-lg">Interact with students from various cultural backgrounds</p>
                 </div>
               </div>
-            </div>
-            <div className="space-y-8">
               <div className="flex items-start space-x-4">
                 <Clock className="w-8 h-8 text-green-500 flex-shrink-0" />
                 <div>
-                  <h4 className="font-semibold mb-2">Structured Learning Environment</h4>
-                  <p className="text-gray-600">Well-organized academic schedule with balanced extracurricular activities</p>
+                  <h4 className="font-semibold mb-2 text-md md:text-xl">Structured Learning Environment</h4>
+                  <p className="text-gray-600 text-sm md:text-lg">Well-organized academic schedule with balanced extracurricular activities</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
                 <Award className="w-8 h-8 text-green-500 flex-shrink-0" />
                 <div>
-                  <h4 className="font-semibold mb-2">Personal Growth</h4>
-                  <p className="text-gray-600">Develop independence, adaptability, and cross-cultural communication skills</p>
+                  <h4 className="font-semibold mb-2 text-md md:text-xl">Personal Growth</h4>
+                  <p className="text-gray-600 text-sm md:text-lg">Develop independence, adaptability, and cross-cultural communication skills</p>
                 </div>
               </div>
-            </div>
-            <div className="space-y-8">
               <div className="flex items-start space-x-4">
                 <Globe2 className="w-8 h-8 text-green-500 flex-shrink-0" />
                 <div>
-                  <h4 className="font-semibold mb-2">Cultural Immersion</h4>
-                  <p className="text-gray-600">Experience new cultures, traditions, and ways of life</p>
+                  <h4 className="font-semibold mb-2 text-md md:text-xl">Cultural Immersion</h4>
+                  <p className="text-gray-600 text-sm md:text-lg">Experience new cultures, traditions, and ways of life</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
                 <Building2 className="w-8 h-8 text-green-500 flex-shrink-0" />
                 <div>
-                  <h4 className="font-semibold mb-2">Safe Accommodation</h4>
-                  <p className="text-gray-600">Comfortable and secure housing facilities for international students</p>
+                  <h4 className="font-semibold mb-2 text-md md:text-xl">Safe Accommodation</h4>
+                  <p className="text-gray-600 text-sm md:text-lg">Comfortable and secure housing facilities for international students</p>
                 </div>
               </div>
-            </div>
           </div>
         </div>
       </div>
