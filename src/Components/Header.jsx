@@ -10,7 +10,7 @@ const Header = () => {
       <header className="w-full flex justify-between px-4 py-4 shadow-md shadow-slate-300 bg-white sticky top-0 left-0 z-20">
         <div className="flex justify-center items-center gap-1">
           <img src={flight} alt="" className="h-7 w-7  md:h-10 md:w-10" />
-          <h1 className="bg-gradient-to-r from-green-700 to-green-300 text-transparent bg-clip-text text-xl md:text-2xl lg:text-3xl font-semibold">
+          <h1 className="bg-gradient-to-r from-green-700 to-green-400 text-transparent bg-clip-text text-xl md:text-2xl lg:text-3xl font-semibold">
             StudyAbroad
           </h1>
         </div>

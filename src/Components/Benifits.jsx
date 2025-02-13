@@ -123,7 +123,7 @@ const Benifits = () => {
               <div className="flex items-start space-x-4">
                 <Clock className="w-8 h-8 text-green-500 flex-shrink-0" />
                 <div>
-                  <h4 className="font-semibold mb-2 text-md md:text-xl">Structured Learning Environment</h4>
+                  <h4 className="font-semibold mb-2 text-md md:text-xl">Structugreen Learning Environment</h4>
                   <p className="text-gray-600 text-sm md:text-lg">Well-organized academic schedule with balanced extracurricular activities</p>
                 </div>
               </div>

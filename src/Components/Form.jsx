@@ -117,7 +117,7 @@ const Form = () => {
 
               <button
                 type="submit"
-                className="w-full bg-white text-black text-lg py-2 rounded-md font-semibold hover:bg-gray-300 cursor-pointer transition duration-300"
+                className="w-full bg-green-500 text-white text-lg py-2 rounded-md font-semibold hover:bg-green-600 cursor-pointer transition duration-300"
               >
                 Submit Application
               </button>
